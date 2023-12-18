@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.simplemobiletools.calculator.debug",
+  "variantName": "coreDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 61,
+      "versionName": "5.12.0",
+      "outputFile": "calculator-core-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}
